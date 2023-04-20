@@ -1,3 +1,7 @@
+![ScreenShot of the website](https://github.com/DCSSE/PetShopApp/blob/master/PetShop.png
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
