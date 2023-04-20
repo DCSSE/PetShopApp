@@ -1,4 +1,5 @@
-[ScreenShot of the website](https://github.com/DCSSE/PetShopApp/blob/master/PetShop.png
+<img width="960" alt="PetShop" src="https://user-images.githubusercontent.com/99336969/233455200-33a0e9e8-1a3c-4e0f-9bb9-7b75f317b8a5.png">
+<img width="959" alt="PetShop2" src="https://user-images.githubusercontent.com/99336969/233455217-2eefc040-766c-4160-a335-d84e5aafec07.png">
 
 
 
