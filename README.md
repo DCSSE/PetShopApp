@@ -1,4 +1,4 @@
-![ScreenShot of the website](https://github.com/DCSSE/PetShopApp/blob/master/PetShop.png
+[ScreenShot of the website](https://github.com/DCSSE/PetShopApp/blob/master/PetShop.png
 
 
 
